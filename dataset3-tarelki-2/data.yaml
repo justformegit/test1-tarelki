@@ -1,0 +1,9 @@
+names:
+- blue
+- green
+- red
+- undefined
+- yellow
+nc: 5
+train: dataset3-tarelki-2/train/images
+val: dataset3-tarelki-2/valid/images
